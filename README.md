@@ -1,2 +1,1 @@
-# jjjghh
-codelogic sql
+print("dfdlg")
